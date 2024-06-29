@@ -12,11 +12,11 @@ const exp = [
     desp: "<lu>I enhanced AI model transparency and explainability by implementing Explainable AI methods using Captum, PyTorch, and HuggingFace. For vision and text models like GoogleVIT and BERT, I developed saliency maps and heatmaps to provide insights into model behavior. I created a novel visual explainability technique called Inference Path Mapping (IPM), applicable to both classification and non-classification models. To optimize data preparation, I developed a specialized data collator that transforms assembly code collections into parameter-specified datasets for advanced training schemes. I designed and implemented robust backend architectures for various tasks, ensuring seamless integration across projects. Throughout my work, I produced comprehensive documentation and reports for each task and experiment, dedicating equal time to coding and documenting progress. I also created comprehensive test cases, employing test-driven development practices to ensure system reliability and robustness.</lu>",
   },
   {
-    title: "Computer Science Student",
+    title: "Bachelors of Science in Computer Science",
     cardImage: "assets/images/experience-page/usf_logo.png",
     place: "University of South Florida",
     time: "(May, 2024)",
-    desp: "<lu>Full Time Student</lu>",
+    desp: "<lu>Graduated with AI and Security Focus</lu>",
   },
 ];
 
